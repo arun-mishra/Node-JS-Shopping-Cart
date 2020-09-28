@@ -1,0 +1,13 @@
+.login-form {
+
+  width: 30rem;
+  max-width: 90%;
+  margin: auto;
+  margin-top: 5rem;
+  display: block;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  background: teal;
+  opacity: 0.9;
+  padding: 2rem;
+  border-radius: 10px;
+}
